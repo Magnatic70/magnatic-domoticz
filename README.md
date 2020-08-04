@@ -1,7 +1,7 @@
 # magnatic-domoticz
 A simple library for communication with Domoticz.
 
-This library depends on the magnatic-esp library and the ArduinoJson-library.
+This library depends on the [magnatic-esp](https://github.com/Magnatic70/magnatic-esp) library and the ArduinoJson-library.
 
 ## void domoticzSetup()
 Use this function in your void setup(), after espSetup()
