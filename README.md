@@ -4,7 +4,7 @@ A simple library for communication with Domoticz.
 This library depends on the magnatic-esp library and the ArduinoJson-library.
 
 `void domoticzSetup()`
-Use this function in your void setup(), after espSetup()
+  Use this function in your void setup(), after espSetup()
 
 `void setTempHumValues(String deviceID, float temp, float hum)`
 Sets temperature and humidity values for a device.
